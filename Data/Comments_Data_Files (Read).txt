@@ -1,0 +1,3 @@
+Data set is used for Synthesis models
+Combined Data is used for EDX models
+Plot-Data contains the reduced Synthesis and EDX data sets by averaging the obtained x and y values
